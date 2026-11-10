@@ -1,5 +1,5 @@
 <p align="center">
-<img src="icon/cpkg.png" alt="Project Icon" width="105" height="92">
+<img src="../icon/cpkg.png" alt="Project Icon" width="105" height="92">
 </p>
 
 # cpkg
